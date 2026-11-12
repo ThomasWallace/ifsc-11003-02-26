@@ -61,6 +61,9 @@ body {
   margin: 0;
 }
 
+#page-about header.primary{
+  background-color: red;
+}
 header.primary {
   background-color: #3b6b8b;
   color: #ffffff;
